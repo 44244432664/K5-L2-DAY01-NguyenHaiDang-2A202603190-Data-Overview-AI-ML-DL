@@ -10,6 +10,8 @@
 > **Bài nộp:** repository GitHub có thư mục `report/`; chỉ nộp **link repo** trên LMS.
 > Nếu Colab mở bản cũ (còn mục Drive ZIP), đóng tab đó và mở lại bằng link `v1.0.3` ở trên, rồi nhấn **Copy to Drive**.
 
+<a href="https://colab.research.google.com/drive/1C6eCN3XwREuYbB1Lv_Kcc4RoUcvFiaFz?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 [link colab cá nhân chay thử bài]
 (https://colab.research.google.com/drive/1C6eCN3XwREuYbB1Lv_Kcc4RoUcvFiaFz?usp=sharing)
