@@ -10,6 +10,11 @@
 > **Bài nộp:** repository GitHub có thư mục `report/`; chỉ nộp **link repo** trên LMS.
 > Nếu Colab mở bản cũ (còn mục Drive ZIP), đóng tab đó và mở lại bằng link `v1.0.3` ở trên, rồi nhấn **Copy to Drive**.
 
+
+[link colab cá nhân chay thử bài]
+(https://colab.research.google.com/drive/1C6eCN3XwREuYbB1Lv_Kcc4RoUcvFiaFz?usp=sharing)
+
+
 Đây là bài thực hành 60 phút về cách đọc **prediction** của một mô hình đã huấn luyện và suy ra loại
 **ground truth** mà một quy trình gán nhãn cần tạo. Bạn không huấn luyện mô hình và không coi prediction
 là sự thật.
@@ -58,13 +63,13 @@ guideline nội bộ của VinFast.
 
 Bạn chưa cần cài Python, VS Code, Antigravity hoặc CVAT cho bài này. Trước giờ lab, kiểm tra đủ các mục:
 
-- [ ] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab.
-- [ ] Dùng Chrome hoặc Edge phiên bản mới và có kết nối Internet ổn định.
-- [ ] Biết mã khóa (`KHOA`, ví dụ `K4`), họ tên không dấu, MSSV và tên bài (`Data-Overview-AI-ML-DL`) để đặt tên repository bài làm.
-- [ ] Mở được repository do GV/Lab Coach cung cấp và nhìn thấy nút **Use this template**.
-- [ ] Không sử dụng ảnh cá nhân hoặc dữ liệu nội bộ; notebook đã có sẵn ảnh công khai cho bài lab.
-- [ ] Biết kênh hỏi hỗ trợ và kênh nộp **link repository** của lớp.
-- [ ] Biết tên repository bắt buộc theo mẫu `<KHOA>-L2-DAY01-HoVaTen-MSSV-Data-Overview-AI-ML-DL`; không thêm email, số điện thoại
+- [ x ] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab.
+- [ x ] Dùng Chrome hoặc Edge phiên bản mới và có kết nối Internet ổn định.
+- [ x ] Biết mã khóa (`KHOA`, ví dụ `K4`), họ tên không dấu, MSSV và tên bài (`Data-Overview-AI-ML-DL`) để đặt tên repository bài làm.
+- [ x ] Mở được repository do GV/Lab Coach cung cấp và nhìn thấy nút **Use this template**.
+- [ x ] Không sử dụng ảnh cá nhân hoặc dữ liệu nội bộ; notebook đã có sẵn ảnh công khai cho bài lab.
+- [ x ] Biết kênh hỏi hỗ trợ và kênh nộp **link repository** của lớp.
+- [ x ] Biết tên repository bắt buộc theo mẫu `<KHOA>-L2-DAY01-HoVaTen-MSSV-Data-Overview-AI-ML-DL`; không thêm email, số điện thoại
   hoặc dữ liệu cá nhân khác.
 
 Nếu thiếu tài khoản hoặc không mở được repository, báo Lab Coach trước khi chạy bài.
